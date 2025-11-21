@@ -1,6 +1,6 @@
-# 🍓 Raspberry Pi System Monitor 🖥️
+#  Raspberry Pi System Monitor 
 
-A simple Python script for monitoring system parameters on a Raspberry Pi, just for fun and to practice Python! 🐍
+A simple Python script for monitoring system parameters on a Raspberry Pi, just for fun and to practice Python! 
 
 ## Overview
 
