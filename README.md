@@ -58,7 +58,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ## Disclaimer
 This project is for educational and recreational purposes. Use it responsibly and at your own risk!
 
-Enjoy monitoring your Raspberry Pi with this cool Python script! If you have any suggestions or feedback, feel free to open an issue or reach out to me. Happy coding! 🚀🐍
+Enjoy monitoring your Raspberry Pi with this cool Python script! If you have any suggestions or feedback, feel free to open an issue or reach out to me. Happy coding! 
 
 
 
